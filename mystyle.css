@@ -1,0 +1,12 @@
+body{
+    background-color: #fff159;
+}
+
+.LogoML, svg{
+    min-height: 4vh;
+    width: 23vh;
+    margin-left: 3vh;
+    margin-top: -5vh;
+    display: flex;
+    position: absolute;
+  }
